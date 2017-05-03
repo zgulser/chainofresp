@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/ATMWithdrawRequestHandler.h
+typeinfo
+-
+iostream
+-
+
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/Withdraw100RequestHandler.h
+ATMWithdrawRequestHandler.h
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/ATMWithdrawRequestHandler.h
+
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/Withdraw10RequestHandler.h
+ATMWithdrawRequestHandler.h
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/ATMWithdrawRequestHandler.h
+
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/Withdraw20RequestHandler.h
+ATMWithdrawRequestHandler.h
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/ATMWithdrawRequestHandler.h
+
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/Withdraw50RequestHandler.h
+ATMWithdrawRequestHandler.h
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/ATMWithdrawRequestHandler.h
+
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/main.cpp
+iostream
+-
+Withdraw100RequestHandler.h
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/Withdraw100RequestHandler.h
+Withdraw50RequestHandler.h
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/Withdraw50RequestHandler.h
+Withdraw20RequestHandler.h
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/Withdraw20RequestHandler.h
+Withdraw10RequestHandler.h
+/Users/zeki/Desktop/Zeki/code/c++/chainofresp/Withdraw10RequestHandler.h
+
